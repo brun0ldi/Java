@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hola.mundoo;
+package Subprogramas;
 
 import java.util.Scanner;
 
@@ -11,22 +11,14 @@ import java.util.Scanner;
  *
  * @author bruno
  */
-public class Cuadrado {
+public class NewMain {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n, j;
-        Scanner Teclado = new Scanner(System.in);
-        n= Teclado.nextInt();
-        
-        for(int i=1; i<=n; i++){
-            for(int j=1; j<=n; j++){
+        Scanner leer = new Scanner(System.in);
                 
-            }
-            System.out.print("*");  
-        }        
     }
     
 }

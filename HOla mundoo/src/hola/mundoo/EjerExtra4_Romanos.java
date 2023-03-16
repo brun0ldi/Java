@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Extras;
+package hola.mundoo;
 
 import java.util.Scanner;
 public class EjerExtra4_Romanos {
